@@ -10,7 +10,7 @@
         <Canvas Margin="3,3,-3,-3" Width="658" Height="472">
             <Canvas.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
-                    <GradientStop Color="#FF7D7DEA"/>
+                    <GradientStop Color="#FF7D9BEA"/>
                     <GradientStop Color="#FFACACAC" Offset="0.656"/>
                 </LinearGradientBrush>
             </Canvas.Background>
